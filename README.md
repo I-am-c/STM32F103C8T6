@@ -10,3 +10,7 @@
 2024/10/13
 1.HARDWARE文件夹中，新增无源蜂鸣器BUZZER调用程序
 2.Project文件夹中，新增无源蜂鸣器BUZZER播放音乐工程
+
+2024/11/14
+1.HARDWARE文件夹中，新增HC-SR501调用程序
+2.Project文件夹中，新增HC-SR501人体感应工程
