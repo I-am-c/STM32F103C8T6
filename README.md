@@ -1,34 +1,36 @@
 # STM32F103C8T6
 
-HARDWARE文件夹
-  AHT10
-  BEEP
-  BUZZER
-  DHT11
-  DS1302
-  DS18B20
-  HC-SR501
-  HC_SR04
-  HC_SR505
-  KEY
-  MQ135
-  MQ2
-  OLED
-  RES
-  SW420
-  TTP223
+## HARDWARE文件夹  
+* AHT10  
+* BEEP  
+* BUZZER
+* DHT11
+* DS1302
+* DS18B20
+* HC-SR501
+* HC_SR04
+* HC_SR505
+* KEY
+* MQ135
+* MQ2
+* OLED
+* RES
+* SW420
+* TTP223
+* SYN6288
 
-2024/10/7
-1.新增HARDWARE文件夹，存放各种模块的调用程序
+## Project文件夹  
+* 0.96oled - AHT10.zip
+* 0.96oled - DHT11.zip
+* 0.96oled - DS1302.zip
+* 0.96oled - HC-SR501.zip
+* 0.96oled - HC-SR505.zip
+* 0.96oled - ds18b20.zip
+* 0.96oled - key.zip
+* 0.96oled - mq135.zip
+* 0.96oled - mq2.zip
+* 0.96oled - sw420.zip
+* 0.96oled - ttp223.zip
+* 0.96oled-buzzer.zip
+* c8t6+syn6288.zip
 
-2024/10/11
-1.HARDWARE文件夹中，新增DS1302调用程序
-2.新增Project文件夹，存放工程文件
-
-2024/10/13
-1.HARDWARE文件夹中，新增无源蜂鸣器BUZZER调用程序
-2.Project文件夹中，新增无源蜂鸣器BUZZER播放音乐工程
-
-2024/11/14
-1.HARDWARE文件夹中，新增HC-SR501调用程序
-2.Project文件夹中，新增HC-SR501人体感应工程
