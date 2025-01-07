@@ -18,6 +18,7 @@
 * SW420
 * TTP223
 * SYN6288
+* TCS34725
 
 ## Project文件夹  
 * 0.96oled - AHT10.zip
@@ -31,6 +32,7 @@
 * 0.96oled - mq2.zip
 * 0.96oled - sw420.zip
 * 0.96oled - ttp223.zip
-* 0.96oled-buzzer.zip
+* 0.96oled - buzzer.zip
 * c8t6+syn6288.zip
+* 0.96oled - TCS34725.zip
 
